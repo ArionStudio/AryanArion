@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AryanArion
 - 👀 I’m interested in anime, technology news, books and sport
-- 🌱 I’m currently learning math
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently study IT in PW and work in Lenslist as Freelancer
+<!--- - 💞️ I’m looking to do somthing --->
 - 📫 How to reach me https://m.me/arion2323
 
 <!---
